@@ -12,6 +12,6 @@ int main()
 	x = y;
 	y = aux;
 
-	//show X and Y values
+	//show values for X and Y before change
 	printf("x: %d, y: %d", x, y );
 }
