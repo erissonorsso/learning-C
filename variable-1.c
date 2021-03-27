@@ -2,7 +2,7 @@
 
 int main()
 {
-	//declaration of 3 variables
+	//variables declaration
 	int x = 3;
 	int y = 7;
 	int aux;
